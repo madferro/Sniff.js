@@ -2,11 +2,11 @@ Sniff.js - detect and inject browser infos
 ========
 <small><em>version 1.0</em></small>
 <ul>
-	<li><a href="https://github.com/madferro/Sniff.js/README.md#what-is-it">What is it</a></li>
-	<li><a href="https://github.com/madferro/Sniff.js/README.md#how-to-use-it">How to use it</a></li>
-	<li><a href="https://github.com/madferro/Sniff.js/README.md#example">Example</a></li>
-	<li><a href="https://github.com/madferro/Sniff.js/README.md#detectable-browsers-and-mobile-os">Detectable browsers and mobile OS</a></li>
-	<li><a href="https://github.com/madferro/Browzers/blob/master/README.md#javascript-object">Javascript Object</a></li>
+	<li><a href="https://github.com/madferro/Sniff.js#what-is-it">What is it</a></li>
+	<li><a href="https://github.com/madferro/Sniff.js#how-to-use-it">How to use it</a></li>
+	<li><a href="https://github.com/madferro/Sniff.js#example">Example</a></li>
+	<li><a href="https://github.com/madferro/Sniff.js#detectable-browsers-and-mobile-os">Detectable browsers and mobile OS</a></li>
+	<li><a href="https://github.com/madferro/Sniff.js#javascript-object">Javascript Object</a></li>
 </ul>
 ##What is it?
 <strong>Sniff.js</strong> is an ultralightweight javascript browser sniffer that detects user's browser type, version and eventually mobile os type injecting this informations directly in the <code>class</code> attribute of the <code>html</code> element.
