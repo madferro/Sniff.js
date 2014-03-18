@@ -2,10 +2,10 @@ Sniff.js - detect and inject browser infos
 ========
 <small><em>version 1.0</em></small>
 <ul>
-	<li><a href="https://github.com/madferro/Sniff.js/blob/master/README.md#what-is-it">What is it</a></li>
-	<li><a href="https://github.com/madferro/Sniff.js/blob/master/README.md#how-to-use-it">How to use it</a></li>
-	<li><a href="https://github.com/madferro/Sniff.js/blob/master/README.md#example">Example</a></li>
-	<li><a href="https://github.com/madferro/Sniff.js/blob/master/README.md#detectable-browsers-and-mobile-os">Detectable browsers and mobile OS</a></li>
+	<li><a href="https://github.com/madferro/Sniff.js/README.md#what-is-it">What is it</a></li>
+	<li><a href="https://github.com/madferro/Sniff.js/README.md#how-to-use-it">How to use it</a></li>
+	<li><a href="https://github.com/madferro/Sniff.js/README.md#example">Example</a></li>
+	<li><a href="https://github.com/madferro/Sniff.js/README.md#detectable-browsers-and-mobile-os">Detectable browsers and mobile OS</a></li>
 	<li><a href="https://github.com/madferro/Browzers/blob/master/README.md#javascript-object">Javascript Object</a></li>
 </ul>
 ##What is it?
