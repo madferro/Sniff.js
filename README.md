@@ -9,7 +9,7 @@
 	<li><a href="https://github.com/madferro/Sniff.js#javascript-object">Javascript Object</a></li>
 </ul>
 ##What is it?
-<strong>Sniff.js</strong> is an ultralightweight javascript browser sniffer that detects user's browser type, version and eventually mobile os type injecting this informations directly in the <code>class</code> attribute of the <code>html</code> element.
+<strong>Sniff.js</strong> is an ultralightweight javascript browser sniffer that detects user's browser type, version and eventually mobile OS type injecting this informations directly in the <code>class</code> attribute of the <code>html</code> element.
 <br/><br>
 This informations can be very useful for CSS styling purpose, because you will be able to write different styling rules according to the browser you're using <strong>in the same CSS stylesheet</strong>. 
 <br><br>
