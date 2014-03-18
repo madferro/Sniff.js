@@ -1,4 +1,4 @@
-Sniff.js - detect and inject browser infos
+<a href="www.alessandroferrini.it/lab/sniff" target="_blank">Sniff.js</a> - detect and inject browser infos
 ========
 <small><em>version 1.0</em></small>
 <ul>
