@@ -76,6 +76,7 @@ So you'll be able to write a specific CSS rule (in your CSS stylesheet file) tha
 | Apple Safari  | <code>safari</code>  |
 | Opera  | <code>opera</code>  |
 | Internet Explorer | <code>msie</code>  |
+| Microsoft Edge | <code>edge</code>  |
 
 | Mobile OS | Generated classname |
 | :------------- | :------------------- |
