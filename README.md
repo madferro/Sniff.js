@@ -1,6 +1,6 @@
 <a href="http://www.alessandroferrini.it/lab/sniff" target="_blank">Sniff.js</a> - detect and inject browser infos
 ========
-<small><em>version 1.1</em></small>
+<small><em>version 1.2</em></small>
 <ul>
 	<li><a href="https://github.com/madferro/Sniff.js#what-is-it">What is it</a></li>
 	<li><a href="https://github.com/madferro/Sniff.js#how-to-use-it">How to use it</a></li>
